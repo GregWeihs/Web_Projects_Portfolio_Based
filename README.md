@@ -7,3 +7,5 @@ The steps to get to it:
 Step 1: Assets Shared
 Step 2: Create index.html,style.css and script.js file into the folder
 Step 3: Now we learn how to create it during the session.
+
+![Animated Car](https://giphy.com/clips/anidom-the-simpsons-fox-foxtv-4zTHXK5GKfswNB58vZ)
