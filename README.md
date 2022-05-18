@@ -30,3 +30,29 @@ https://scrollrevealjs.org/
 Center image within blob
 X: horizontal, Y: vertical
 ![preview img](/preview.jpeg)
+
+
+# E commerce responsive website 
+## The main feature of this website are:
+
+✔ responsive header / navbar section with search bar.
+✔ dark and light mode toggle effect using vanilla javascript.
+✔ responsive home section using flexbox.
+✔ responsive category card section with hover effects using flexbox.
+✔ responsive product touch slider section using swiper.js.
+✔ responsive deal section with count down effect using vanilla javascript.
+✔ responsive review touch slider section using swiper.js.
+✔ responsive footer section using flexbox.
+
+swiper.js
+https://swiperjs.com/
+
+font awesome cdn link:
+https://cdnjs.com/libraries/font-awesome
+
+google fonts:
+
+https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Nunito&family=Poppins:wght@300;500&family=Roboto:wght@300;700;900&display=swap'
+
+Preview:
+![ecommerce_preview](/ecommerce_preview.jpeg)
